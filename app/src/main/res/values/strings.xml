@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Notification Samples</string>
+    <string name="slider_prev">‹ Prev</string>
+    <string name="slider_next">Next ›</string>
 </resources>
